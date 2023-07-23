@@ -1,6 +1,6 @@
 public class Diff {
     public static void main(String[] args) {
         
-        System.out.println("Diffff.java");
+        System.out.println("Dif.java");
     }
 }
